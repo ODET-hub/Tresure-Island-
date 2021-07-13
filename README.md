@@ -1,2 +1,2 @@
-# Tresure-Island-
+# Tresure-Island
 FIRST VERSION
